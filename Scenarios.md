@@ -22,6 +22,6 @@ Many topics in the CKS course have interactive in-browser Killercoda scenarios a
 | Supply Chain Security - Secure Supply Chain | ~~[image-policy-webhook-setup](https://killercoda.com/killer-shell-cks/scenario/image-policy-webhook-setup) <br> [image-use-digest](https://killercoda.com/killer-shell-cks/scenario/image-use-digest)~~ |
 | Runtime Security - Behavioral Analytics at host and container level | ~~[syscall-activity-strace](https://killercoda.com/killer-shell-cks/scenario/syscall-activity-strace) <br> [falco-change-rule](https://killercoda.com/killer-shell-cks/scenario/falco-change-rule)~~ |
 | Runtime Security - Immutability of containers at runtime | ~~[immutability-readonly-fs](https://killercoda.com/killer-shell-cks/scenario/immutability-readonly-fs)~~ |
-| Runtime Security - Auditing | [auditing-enable-audit-logs](https://killercoda.com/killer-shell-cks/scenario/auditing-enable-audit-logs) |
+| Runtime Security - Auditing | ~~[auditing-enable-audit-logs](https://killercoda.com/killer-shell-cks/scenario/auditing-enable-audit-logs)~~ |
 | System Hardening - Kernel Hardening Tools | [apparmor](https://killercoda.com/killer-shell-cks/scenario/apparmor) |
 | System Hardening - Reduce Attack Surface | [system-hardening-close-open-ports](https://killercoda.com/killer-shell-cks/scenario/system-hardening-close-open-ports) <br> [system-hardening-manage-packages](https://killercoda.com/killer-shell-cks/scenario/system-hardening-manage-packages) |
