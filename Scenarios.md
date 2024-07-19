@@ -24,4 +24,4 @@ Many topics in the CKS course have interactive in-browser Killercoda scenarios a
 | Runtime Security - Immutability of containers at runtime | ~~[immutability-readonly-fs](https://killercoda.com/killer-shell-cks/scenario/immutability-readonly-fs)~~ |
 | Runtime Security - Auditing | ~~[auditing-enable-audit-logs](https://killercoda.com/killer-shell-cks/scenario/auditing-enable-audit-logs)~~ |
 | System Hardening - Kernel Hardening Tools | ~~[apparmor](https://killercoda.com/killer-shell-cks/scenario/apparmor)~~ |
-| System Hardening - Reduce Attack Surface | [system-hardening-close-open-ports](https://killercoda.com/killer-shell-cks/scenario/system-hardening-close-open-ports) <br> [system-hardening-manage-packages](https://killercoda.com/killer-shell-cks/scenario/system-hardening-manage-packages) |
+| System Hardening - Reduce Attack Surface | ~~[system-hardening-close-open-ports](https://killercoda.com/killer-shell-cks/scenario/system-hardening-close-open-ports) <br> [system-hardening-manage-packages](https://killercoda.com/killer-shell-cks/scenario/system-hardening-manage-packages)~~ |
